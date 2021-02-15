@@ -1,0 +1,26 @@
+MAUIcount.py
+/Users/peter/Documents/Sequence_data/MAUI_Sara_2016/recA/
+
+2	read_diff
+0.7	reject_threshold
+0.001	add_limit
+
+8479702	Raw read count
+8111627	Total reads used
+590442	Total unique sequences
+
+Before truncation:
+33912	Total UMI counts
+33890	Total accepted counts
+223	Total UMI sequences
+202	Total accepted sequences
+
+After truncating to threshold:
+13	Reported UMI sequences
+13	Reported accepted sequences
+
+82	Reported read sequences
+
+2019-09-24 16:39:33.420544	Start time
+2019-09-24 16:40:19.258573	End time
+0:00:45.838029	Duration
